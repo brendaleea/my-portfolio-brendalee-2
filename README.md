@@ -14,7 +14,7 @@ This is my portfolio with active links to my projects I have done so far. This p
 This project was created using html & css
 
 ## Usage
-
+https://brendaleea.github.io/my-portfolio-brendalee-2/
 
 ## Support
 If you have any questions please feel free to contact me via Slack.
