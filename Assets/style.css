@@ -48,15 +48,6 @@
             
            
       }
-
-
-
-
-
-
-
-
-
     
     nav{
     
@@ -154,12 +145,12 @@
     flex: 1 0 40%;
     padding: 5px;
     margin-top: 3%;
+    
     /* background: green; */
   }
 
-  #curr{
-    text-align: left;
-  }
+ 
+
 
 
 
